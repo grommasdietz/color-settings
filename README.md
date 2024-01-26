@@ -9,7 +9,7 @@ Both configurations preserve embedded profiles on RGB and CMYK by default. They 
 ### Working Spaces
 #### ECI Coated
 RGB: `eciRGB v2`  
-CMYK: `PSO Coated v3 (FOGRA52)`  
+CMYK: `PSO Coated v3`  
 
 #### ECI Unoated
 RGB: `eciRGB v2`  
