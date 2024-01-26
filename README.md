@@ -2,6 +2,19 @@
 
 Color settings referencing [ECI profiles](https://github.com/grommasdietz/color-profiles-eci/) for Adobe CC. 
 
+## Configuration
+
+Both configurations preserve embedded profiles on RGB and CMYK by default. And ask for action on opening and pasting images with mismatching or missing profiles. 
+
+### Working Spaces
+#### ECI Coated
+RGB: `eciRGB v2`  
+CMYK: `PSO Coated v3 (FOGRA52)`  
+
+#### ECI Unoated
+RGB: `eciRGB v2`  
+CMYK: `PSO Uncoated v3 (FOGRA52)`  
+
 ## Installation
 
 Copy all folders and files to the corresponding paths:
