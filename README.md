@@ -1,6 +1,6 @@
 # Color settings
 
-Color settings referencing [ECI profiles](../color-profiles-eci) for Adobe CC. 
+Color settings referencing [ECI profiles](https://github.com/grommasdietz/color-profiles-eci/) for Adobe CC. 
 
 ## Installation
 
