@@ -1,6 +1,6 @@
 # Color settings
 
-Color settings referencing [ECI profiles](https://github.com/grommasdietz/color-profiles-eci/) for Adobe CC. 
+Color settings referencing [ECI profiles](https://github.com/grommasdietz/color-profiles-eci/) for Adobe Creative Cloud applications. 
 
 ## Configuration
 
@@ -34,6 +34,10 @@ Copy all folders and files to the corresponding paths:
 ```
 *C:\Program Files\Common Files\Adobe\Color\Settings*
 ```
+
+> [!WARNING]  
+> Please note that the color settings have been only tested on macOS so far.
+
 ### Activation
 1. Open Bridge
 2. Choose `Edit > Color Settings`
