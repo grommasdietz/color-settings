@@ -37,7 +37,7 @@ C:\Program Files\Common Files\Adobe\Color\Settings
 > Please note that the color settings have been only tested on macOS so far.
 
 ### Activation
-1. Open Bridge
-2. Choose `Edit > Color Settings` from the menu bar
-3. Choose `ECI Coated` or `ECI Uncoated` from the list
-4. select Apply
+1. Open Adobe Bridge
+2. Go to `Edit > Color Settings` in the menu bar
+3. Choose `ECI Coated` or `ECI Uncoated` color setting from the list
+4. Select `Apply`
