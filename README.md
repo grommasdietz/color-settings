@@ -40,6 +40,6 @@ Copy all folders and files to the corresponding paths:
 
 ### Activation
 1. Open Bridge
-2. Choose `Edit > Color Settings`
-3. Choose `ECI Coated.csf` or `ECI Uncoated.csf` color setting from the list,
+2. Choose `Edit > Color Settings` from the menu bar
+3. Choose `ECI Coated` or `ECI Uncoated` from the list
 4. select Apply
