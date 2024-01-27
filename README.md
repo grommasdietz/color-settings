@@ -22,7 +22,7 @@ CMYK: `PSO Uncoated v3 (FOGRA52)`
 
 #### MacOS
 ```
-*/Library/Application Support/Adobe/Color/Settings* 
+/Library/Application Support/Adobe/Color/Settings
 ```
 
 1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open Settings folder.
@@ -30,7 +30,7 @@ CMYK: `PSO Uncoated v3 (FOGRA52)`
 
 #### Windows
 ```
-*C:\Program Files\Common Files\Adobe\Color\Settings*
+C:\Program Files\Common Files\Adobe\Color\Settings
 ```
 
 > [!WARNING]  
