@@ -17,10 +17,8 @@ CMYK: `PSO Uncoated v3 (FOGRA52)`
 
 ## Installation
 
-Copy all folders and files to the corresponding paths:
-
 ### Preparation
-1. Copy the files from the given folder structure to the listed paths:
+1. Copy the files from the given folder structure to the corresponding paths:
 
 #### MacOS
 ```
