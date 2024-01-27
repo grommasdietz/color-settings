@@ -1,4 +1,4 @@
-# Color settings
+# Color Settings
 
 Color settings referencing [ECI color profiles](https://github.com/grommasdietz/color-profiles-eci/) for Adobe Creative Cloud applications. 
 
